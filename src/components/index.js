@@ -1,0 +1,2 @@
+
+export {newCard} from './NewCard';
